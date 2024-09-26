@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luiza Soares
 - 👀 I’m interested in learn and discover a new world, the world of programming.
-- 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on ideas and mutual help
-- 📫 You can reach me on my email ([luizasoaresdesouza25@gmail.com](mailto:luizasoaresdesouza25@gmail.com)) and briefly learn about my professional career on my [linkdin](https://www.linkedin.com/in/luiza-soares-souza/)
+- 🌱 I’m currently learning SQL, since I was inveted to work in an area of ​​data processing and analysis at my company :)
+- 💞️ I’m looking to collaborate on ideas and mutual help.
+- 📫 You can reach me on my email ([luizasoaresdesouza25@gmail.com](mailto:luizasoaresdesouza25@gmail.com)) and briefly learn about my professional career on my [linkdin](https://www.linkedin.com/in/luiza-soares-souza/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I really like music, specially when I'm working, it fell confortable and inspirational.
 
